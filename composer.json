@@ -1,0 +1,6 @@
+{
+  "name": "cbk/devcontainer",
+  "type": "metapackage",
+  "license": "MIT",
+  "description": "A meta package providing recipes for devcontainer"
+}
